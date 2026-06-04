@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongeDoContestado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb66206587fcbd09d85ecf18a1ad7938bacca63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3ed51c7395db0d7b26e1ce9be6ce67ab93f0d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongeDoContestado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongeDoContestado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

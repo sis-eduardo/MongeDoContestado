@@ -1,0 +1,15 @@
+C:\Users\Marivone-PC\Documents\MongeDoContestado\bin\Debug\net8.0\MongeDoContestado.exe
+C:\Users\Marivone-PC\Documents\MongeDoContestado\bin\Debug\net8.0\MongeDoContestado.deps.json
+C:\Users\Marivone-PC\Documents\MongeDoContestado\bin\Debug\net8.0\MongeDoContestado.runtimeconfig.json
+C:\Users\Marivone-PC\Documents\MongeDoContestado\bin\Debug\net8.0\MongeDoContestado.dll
+C:\Users\Marivone-PC\Documents\MongeDoContestado\bin\Debug\net8.0\MongeDoContestado.pdb
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.AssemblyInfoInputs.cache
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.AssemblyInfo.cs
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.csproj.CoreCompileInputs.cache
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.sourcelink.json
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.dll
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\refint\MongeDoContestado.dll
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.pdb
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\MongeDoContestado.genruntimeconfig.cache
+C:\Users\Marivone-PC\Documents\MongeDoContestado\obj\Debug\net8.0\ref\MongeDoContestado.dll
