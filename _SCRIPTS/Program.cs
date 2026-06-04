@@ -4,9 +4,11 @@ using MongeDoContestado._SCRIPTS;
 
 class Program
 {
-    public int Tuno { get; set; } // Variável para controlar o turno da batalha
+    //ainda precisaria controlar o turno criando um gerenciador de turnos, mas isso é assunto para outro dia!
+    //public int Turno { get; set; } // Variável para controlar o turno da batalha
     static void Main(string[] args)
     {
+        //Turno = 1; // Começa no turno 1;
         Console.WriteLine("=== SEJA BEM-VINDO AO MONGE DO CONTESTADO ===");
         Console.WriteLine("=============================================\n");
 
@@ -36,6 +38,7 @@ class Program
             // 5. Final da simulação
             Console.WriteLine("[FIM DA BATALHA EM TURNOS]");
             monge.ReceberXp(30);
+            // turno++;
         }
 
     }
